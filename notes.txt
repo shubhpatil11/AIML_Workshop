@@ -1,0 +1,26 @@
+C R P F 
+C - Convolution
+R - 
+P - Pulling
+F - 
+
+Convolution -
+Get an image of an 'X', and put it into a grid. Where the X exists , put 1 and else put -1
+and then multiply 
+
+Neural network: 
+
+- Nodes, forward propogation
+- epoch = to and fro of input and output
+- Activation function: 
+        Linear : 
+            Relu - Range 0 to 1, does not activate for other values
+
+
+- Loss function , vanishing gradient
+
+
+Pulling :
+    e.g Image shrinking
+
+
