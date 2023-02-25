@@ -11,6 +11,7 @@ import numpy as np
 import pandas as pd
 from sklearn.cluster import KMeans
 
+
 np.random.seed(0)
 n_students = 100
 marks_obtained = np.random.randint(0,100,n_students)
